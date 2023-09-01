@@ -1,0 +1,29 @@
+.primary{
+    color: red;
+    background-color: blue;
+
+}
+.App{
+    text-align: center;
+    text-decoration: dashed;
+}
+.NavBa li{
+    
+    display :inline-block;
+    padding:10px 5px;
+}
+/* .NavBa  .active
+{
+    color:skyblue;
+    background-color: chartreuse;
+} */
+.nav-bar-link
+{
+text-decoration: none;
+color: violet;
+}
+.nav-bar-link:hover
+{
+text-decoration: none;
+color: rgb(46, 215, 77);
+}
